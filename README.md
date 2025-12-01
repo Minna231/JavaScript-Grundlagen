@@ -14,7 +14,7 @@ Das Skript `gruss.js` führt folgende einfache Operationen aus:
 
 ## 🔑 Gelernte Vokabeln (Wichtige Begriffe)
 
-| JavaScript-Konzept | Deutsche Bezeichnung | Bedeutung (Indonesisch) |
+| JavaScript-Konzept | Deutsche Bezeichnung |
 | :--- | :--- | :--- |
 | `function` | `begrüsseBenutzer` | 
 | `variable` | `meinName` |
