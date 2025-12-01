@@ -15,11 +15,11 @@ Das Skript `gruss.js` führt folgende einfache Operationen aus:
 ## 🔑 Gelernte Vokabeln (Wichtige Begriffe)
 
 | JavaScript-Konzept | Deutsche Bezeichnung |
-| :--- | :--- | :--- |
+| :--- | :--- | 
 | `function` | `begrüsseBenutzer` | 
 | `variable` | `meinName` |
-| `variable` | `alter` |
-| `if/else` | `volljährig` / `minderjährig` 
+| `variable` | `alter` | 
+| `if/else` | `volljährig` / `minderjährig` |
 
 ## ⚙️ Installation
 
